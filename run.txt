@@ -1,0 +1,5 @@
+python rag/build_index.py
+uvicorn api.main:app --reload
+http://localhost:8000
+streamlit run frontend/dashboard.py
+http://localhost:8501

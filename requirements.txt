@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+opencv-python
+pillow
+numpy
+torch
+torchvision
+paddleocr
+faiss-cpu
+langchain
+sentence-transformers
+streamlit
+python-multipart
+openai
+streamlit
